@@ -2,7 +2,7 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding Assignment, completed.
 
-link: https://AishikTokdar.github.io/Coursera-FrontEnd-Development/
+link: https://aishiktokdar.github.io/Coursera-FrontEnd-Development/Module%202/
 
 Woo-hoo! You get to do some coding! Exciting!
 
